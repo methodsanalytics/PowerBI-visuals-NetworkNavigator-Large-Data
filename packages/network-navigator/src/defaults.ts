@@ -51,7 +51,7 @@ export const DEFAULT_CONFIGURATION: INetworkNavigatorConfiguration = {
 	minZoom: 0.1,
 	maxZoom: 100,
 	caseInsensitive: true,
-	maxNodeCount: 1000,
+	maxNodeCount: 30000,
 	defaultLabelColor: '#0078d4',
 	fontSizePT: 8,
 	maxNodeSize: 500,

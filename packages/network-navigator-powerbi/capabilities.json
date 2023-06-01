@@ -63,7 +63,12 @@
                     "dataReductionAlgorithm": {
                         "top": {
                             "count": 30000
-                        }
+                        },
+						"rowCount": {
+							"supported": {
+								"max": 30000
+							}
+						}
                     },
 					"select": [
 						{
